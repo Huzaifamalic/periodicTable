@@ -1,0 +1,41 @@
+.bule{
+background-color: rgba(14, 61, 190, 0.774);
+padding: 10px;
+border: 1px solid;
+
+}
+h1{text-align: center;
+background-color: chocolate;}
+.red{
+    background-color: red;
+padding: 10px;
+border: 1px solid;
+
+}
+.orange{
+    background-color: orange;
+    padding: 10px;
+border: 1px solid;
+
+}
+.green{
+    background-color: lightgreen;
+    padding: 10px;
+border: 1px solid;
+
+}
+.yellow{
+    background-color: yellow;
+    padding: 10px;
+border: 1px solid;
+
+}
+.litegreen{
+    background-color:paleturquoise
+    padding: 14px;
+    border: 2px solid;
+    
+}
+.rendom{
+    padding: 10px;
+}
